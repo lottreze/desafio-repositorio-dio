@@ -1,2 +1,3 @@
 # desafio-repositorio-dio
-primeiro desafio de projeto da dio
+repositorio para desafios de projeto
+
